@@ -1,1 +1,40 @@
-/* font-family: 'Roboto', sans-serif; */
+body {
+  font-family: "Poppins", sans-serif;
+}
+.row > .col-lg-7 > h1 {
+  font-size: 56px;
+  font-weight: bold;
+  font-family: "Poppins", sans-serif;
+}
+.row > .col-lg-7 > p {
+  font-size: 16px;
+  font-family: "Poppins", sans-serif;
+}
+.bg-color {
+  background-color: #feeae9;
+  border-radius: 20px;
+}
+.price {
+  color: #ff136f;
+}
+.watch {
+  background: linear-gradient(152.07deg, #ff9c35 1.47%, #ffd019 97.17%);
+}
+.shoes {
+  background: linear-gradient(170.41deg, #4289ff -10.89%, #3f07f8 92.77%);
+}
+.bags {
+  background: linear-gradient(180deg, #ff589b -0.01%, #ff136f 99.99%);
+}
+.bags > img {
+  width: 94px;
+}
+.shoes > img {
+  width: 94px;
+}
+.watch > img {
+  width: 94px;
+}
+.color {
+  background-color: #ff589b;
+}
